@@ -7,3 +7,4 @@ La idea es que de esta forma todo el código utilizado en los tutoriales de la p
 Código includo.
 
 lfsr8 - Ejemplo de generador de números aleatorios mediante un LFSR
+uart_tx - Transmisión a través de la UART de la placa Nexys4
